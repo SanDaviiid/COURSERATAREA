@@ -14,7 +14,7 @@
 
 @implementation ViewController {
 
-//modif 1 davidmedina
+//modif 1 DAVIDMEDINA
 
 - (void)viewDidLoad {
     [super viewDidLoad];
