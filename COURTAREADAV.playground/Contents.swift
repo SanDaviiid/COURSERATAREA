@@ -10,7 +10,7 @@ for num in 0...100 {
         print ("Bingo")
     }
     if num % 2 == 0 {
-        print ("par!!!")
+        print ("par")
     }else {
         print ("impar")
     }
