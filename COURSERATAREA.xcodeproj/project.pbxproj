@@ -51,6 +51,7 @@
 		8C1F7F0E1D3B06A80058B8AD /* COURSERATAREAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = COURSERATAREAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C1F7F121D3B06A80058B8AD /* COURSERATAREAUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = COURSERATAREAUITests.m; sourceTree = "<group>"; };
 		8C1F7F141D3B06A80058B8AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C1F7F201D3B0D3A0058B8AD /* COURTAREADAV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = COURTAREADAV.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		8C1F7EE11D3B06A80058B8AD = {
 			isa = PBXGroup;
 			children = (
+				8C1F7F201D3B0D3A0058B8AD /* COURTAREADAV.playground */,
 				8C1F7EEC1D3B06A80058B8AD /* COURSERATAREA */,
 				8C1F7F061D3B06A80058B8AD /* COURSERATAREATests */,
 				8C1F7F111D3B06A80058B8AD /* COURSERATAREAUITests */,
@@ -498,6 +500,7 @@
 				8C1F7F191D3B06A80058B8AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C1F7F1A1D3B06A80058B8AD /* Build configuration list for PBXNativeTarget "COURSERATAREATests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +509,7 @@
 				8C1F7F1C1D3B06A80058B8AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C1F7F1D1D3B06A80058B8AD /* Build configuration list for PBXNativeTarget "COURSERATAREAUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +518,7 @@
 				8C1F7F1F1D3B06A80058B8AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
