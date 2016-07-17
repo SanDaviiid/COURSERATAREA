@@ -12,7 +12,9 @@
 
 @end
 
-@implementation ViewController
+@implementation ViewController {
+
+//modif 1 davidmedina
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -23,5 +25,6 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
+    
+}
 @end
